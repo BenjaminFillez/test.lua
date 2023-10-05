@@ -1,9 +1,4 @@
 --[=[
-Benjamin Fillez
-Script en Lua (mais sur roblox)
-(pas fini)
-
-14/09/23
 ]=]
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
